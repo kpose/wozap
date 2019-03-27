@@ -8,8 +8,20 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "apollo-cache-redux": "^0.1.2",
+    "apollo-client": "^2.5.1",
+    "apollo-link": "^1.2.11",
+    "apollo-link-error": "^1.1.10",
+    "apollo-link-http": "^1.5.14",
+    "apollo-link-redux": "^0.2.1",
+    "graphql": "^14.2.0",
+    "graphql-tag": "^2.10.1",
     "react": "16.8.3",
-    "react-native": "0.59.2"
+    "react-apollo": "^2.5.3",
+    "react-native": "0.58.6",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
